@@ -2,6 +2,8 @@
 An MSET9 injector that runs from a second, hacked, 3DS running GodMode9
 
 The script will most likely be uploaded here once the sanity check is completed.
+
+Development is currently paused until I get a flashcart.
 ## Credits
 - zoogie, for discovering the [MSET9](https://github.com/zoogie/MSET9) exploit.
 - d0k3 and the other [GodMode9](https://github.com/d0k3/GodMode9) contributors. Without GM9 this would be substantially harder to make. (I certainly wouldn't be able to, at least)
